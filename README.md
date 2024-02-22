@@ -1,5 +1,5 @@
 # 💫 About Me:
--- I am passionate about the world of programming 💻<br>-- I am currently a graduate of a university where I studied computer science and I managed to graduate  👨‍🎓<br>-- I have good soft skills and good development when working with other people 🗣️<br>-- Currently,<br>-- I am a pleasant person, fun and easy to adapt to the requirements of a company 🤝
+-- I am passionate about the world of programming 💻<br>-- I am currently a graduate of a university where I studied computer science and I managed to graduate  👨‍🎓<br>-- I have good soft skills and good development when working with other people 🗣️<br>-- I am a pleasant person, fun and easy to adapt to the requirements of a company 🤝
 
 
 ## 🌐 Socials:
